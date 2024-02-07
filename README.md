@@ -14,6 +14,8 @@ You can then run to start the calibration, you will need to take 30 pictures of 
 python3 ./calibration.py
 ```
 
+# Advanced Usage
+
 ```bash
 python3 ./calibration.py [opts]
 ```
