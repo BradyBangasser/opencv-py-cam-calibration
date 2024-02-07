@@ -9,11 +9,10 @@ You will need to print off a Charuco Board for the camera to calibrate, you can 
 python3 ./calibration.py -n
 ```
 
-You can then run
+You can then run to start the calibration, you will need to take 30 pictures of the board with your camera by pressing the space key
 ```bash
 python3 ./calibration.py
 ```
-to start the calibration, you will need to take 30 pictures of the board with your camera by pressing the space key
 
 ```bash
 python3 ./calibration.py [opts]
